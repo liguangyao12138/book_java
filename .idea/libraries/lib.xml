@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chapter16/lib/dom4j-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter16/lib/fastjson-1.2.62.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter16/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter16/lib/httpcore-4.4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter16/lib/httpmime-4.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chapter16/lib/mchange-commons-java-0.2.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
